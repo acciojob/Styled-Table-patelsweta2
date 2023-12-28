@@ -15,12 +15,11 @@ th, td {
 }
 
 th {
-	
     color: white;
 }
 tbody tr:nth-child(even) {
     background-color: #f2f2f2;
-	border:transparent;
+/* 	border:none; */
 }
 tbody tr:hover {
     background-color: #d4eaf7;
